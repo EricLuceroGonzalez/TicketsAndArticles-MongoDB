@@ -1,0 +1,77 @@
+
+_id
+    :5d6dc37737d0181e256d0d36
+    name
+    :"Cerveza 200 ml"
+    price
+    :250
+    onExistence
+    :1
+    __v
+    :0
+
+    _id
+    :5d6dd5a7f4b45127fa03117b
+    name
+    :"Cerveza 235 ml"
+    price
+    :3.55
+    onExistence
+    :1000
+    __v
+    :0
+
+    _id
+    :5d6dd617f4b45127fa03117f
+    name
+    :"Cerveza 60000 ml"
+    price
+    :105.85
+    onExistence
+    :1253
+    __v
+    :0
+
+    _id
+    :5d6dc35a37d0181e256d0d35
+    name
+    :"Eric Testing No. 1"
+    price
+    :150
+    onExistence
+    :1
+    __v
+    :0
+
+    _id
+    :5d6dd5e6f4b45127fa03117c
+    name
+    :"Cerveza 355 ml"
+    price
+    :7.55
+    onExistence
+    :1000
+    __v
+    :0
+
+    _id
+    :5d6dd5faf4b45127fa03117d
+    name
+    :"Cerveza 700 ml"
+    price
+    :20.85
+    onExistence
+    :100
+    __v
+    :0
+
+    _id
+    :5d6dd606f4b45127fa03117e
+    name
+    :"Cerveza 1500 ml"
+    price
+    :25.85
+    onExistence
+    :250
+    __v
+    :0
